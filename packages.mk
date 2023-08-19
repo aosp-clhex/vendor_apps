@@ -1,3 +1,4 @@
 PRODUCT_PACKAGES += \
 	SimpleGallery \
-	FossBrowser
+	FossBrowser \
+	FDroidPrivilegedExtension
